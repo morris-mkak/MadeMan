@@ -2,8 +2,8 @@
 {
     'name': "MadeMan_module",
     'author': "Moh Doe",
-    'category': 'Uncategorized',
-    'version': '0.1',
+    'category': 'Mademan',
+    'version': '1.0',
     'depends': ['base','contacts','website'],
     'demo': [
         'demo/demo.xml',
@@ -24,8 +24,6 @@
         'views/mademan_visit_completion_views.xml',
         'views/mademan_homepage_views.xml',
 
-        # 'views/appointment_calendar.xml',
-        # 'reports/report_appointment.xml',
     ],
     'demo': [],
     'installable': True,

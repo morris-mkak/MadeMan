@@ -1,0 +1,38 @@
+/* Vintage theme styles */
+body {
+    background-color: #f7f1e3;
+    font-family: 'Garamond', serif;
+    color: #3d3d3d;
+}
+
+.header {
+    background-color: #d1a684;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    border-bottom: 2px solid #b67e52;
+}
+
+.vintage-button {
+    background-color: #b67e52;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.vintage-button:hover {
+    background-color: #a16645;
+}
+
+.vintage-form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    width: 50%;
+}
